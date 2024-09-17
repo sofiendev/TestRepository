@@ -4,3 +4,5 @@ Fichier text
 Version 2 blabla
 
 Je modifie le fichier en ligne
+
+Modif locale
