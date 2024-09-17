@@ -3,4 +3,6 @@ Fichier text
 
 Version 2.2 blabla
 
-Modif en ligne du fichier
+Je modifie le fichier en ligne
+
+Nouvelle modif locale du fichier
